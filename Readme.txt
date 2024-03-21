@@ -1,2 +1,2 @@
 # read me file
-Provides description
+Provides description about the file
